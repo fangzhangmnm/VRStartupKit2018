@@ -1,0 +1,34 @@
+VR Startup Kit for Unity2018
+by fangzhangmnm
+
+Ready-to-use VR Startup Kit to boost up your development!
+It is designed for HTC Vive, but can be easily deported to other devices if you change the Input Settings.
+
+features:
+- Teleporting
+- Rigidbody-based trackpad movement
+- ArmSwinger
+- Prevent Falling and Head Collision
+- Adjust player collider when crouch
+- Climbing
+- Pickups
+
+may coming:
+(don't expert them too much because i'm only a student amateur)
+- Multiple handed pickup suitable for two-handed swords and spears
+- Inventory slots
+- Inventory system
+- Melee system with armors
+- Longbows and guns
+- Lego system
+- Gun assembling 
+
+How to use:
+
+Drag the player prefab into your scene and have fun.
+Add VRPickup component on pickups. Add rigidbody to use physics.
+Add VRClimbableSurface to colliders.
+
+Warning:
+
+The project is in early development so the interfaces might vary a lot during succeeding versions.
